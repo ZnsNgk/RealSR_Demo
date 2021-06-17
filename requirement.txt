@@ -1,0 +1,5 @@
+numpy==1.19.5
+opencv-python==4.2.0.34
+torch==1.5.1
+torchvision==0.6.1
+moviepy==1.0.3
